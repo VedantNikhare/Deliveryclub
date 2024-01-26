@@ -1,4 +1,4 @@
-# BITE--an-online-food-delivery-app-UI-UX-design
+# MunchMate--an-online-food-delivery-app-UI-UX-design
 It is a modern UI/UX design of an online food delivery app with proper design and protocols applied to the application model.
 
 It is a complex process to import a FIGMA file into github repository, thats why I have added just the screenshot of the project temporarily to give you an idea of the 
